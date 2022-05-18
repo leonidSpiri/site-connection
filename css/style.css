@@ -1,0 +1,76 @@
+.shapka{
+background-color: #660000;
+vertical-align: middle;
+}
+.zagolovok
+{
+color:#f8c587;
+font-family: Monotype Corsiva;
+text-align:center;
+font-size: 36px;
+margin:0px;
+margin-top:10px;
+}
+
+.fon{
+background-image: url("../img/fon.gif");
+
+}
+.sidebar{
+background-color: #660000;
+vertical-align: top;
+padding:20;
+color:#f8c587;
+font-size: 22px;
+
+}
+
+.main
+{background-color: #f8c587;
+vertical-align:top;
+padding:10;
+color:#660000;
+text-align: justify;
+text-indent:15;
+
+}
+.footer{
+background-color: #660000;
+color:#f8c587;
+font-size: 12;
+font-style: italic;
+padding-right: 20;
+padding-left: 20;
+vertical-align:middle;
+
+}
+a
+{
+color:#f8c587;
+text-decoration: none;
+
+}
+
+
+em{
+margin: 15px;
+font-style:normal;
+font-weight:bold;
+}
+
+.gal{
+text-align:center;
+}
+.hypertext{
+color: #660000;
+text-decoration: underline;
+}
+.dove{
+width:100%;
+overflow:auto;
+height:550px;
+
+}
+.facts{
+margin-right:50px;
+}
