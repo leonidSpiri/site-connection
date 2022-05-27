@@ -30,13 +30,12 @@
 .main {
     background-color: #87bcf8;
     vertical-align: top;
-    padding: 10px;
+    padding-left: 10px;
     color: #003d66;
     text-align: justify;
-    text-indent: 15px;
     font-size: 20px;
     height: 100%;
-    width: 80%
+    width: 97%
 }
 
 .footer {
